@@ -1,0 +1,17 @@
+
+ 1024  conda activate dev
+ 1025  pwd
+ 1026  cd ..
+ 1027  git clone git@github.com:JakeWheelerGitHub/Week_13_Challenge.git
+ 1028  pwd
+ 1029  cd Week_13_Challenge
+ 1030  git init
+ 1031  git add .
+ 1032  git commit -m "First model created"
+ 1033  git push
+ 1034  conda activate dev
+ 1035  history 50 > terminal_history.txt
+ 1036  git init 
+ 1037  git add .
+ 1038  git commit -m "Coding and readme complete"
+ 1039  git push
